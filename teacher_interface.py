@@ -11,7 +11,7 @@ page = 0
 paper_name = 'Cool_Nameless_file :sunglasses:'
 password_generate = False
 
-st.set_page_config("ExamSave", layout ="centered")
+st.set_page_config("ExamSave: *Teacher Interface*", layout ="centered")
 st.header("ExamSave: Educating For Life")
 
 #MAIN PAGE
